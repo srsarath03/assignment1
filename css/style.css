@@ -1,0 +1,25 @@
+.vh-60{
+	height: 60vh;
+}
+.font-size{
+	font-size: 35px;
+}
+.font-size2{
+	font-size: 20px;
+}
+.btn{
+	border-color: white;
+	color: white;
+}
+.vh-40{
+	height: 40vh;
+}
+@media only screen and (max-width: 576px){
+
+	.vh-60{
+		height: auto;
+	}
+
+}
+
+   
